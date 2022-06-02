@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 4</string>
+    <string name="app_name_logo">PHOTO</string>
+    <string name="textEmailAddress_hint">Ingrese su email</string>
+    <string name="textPassword_hint">Ingrese su contraseña</string>
+
+</resources>
